@@ -292,31 +292,31 @@
         <mxCell id="VdiFgINGFa-3XngEpmkl-361" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-315" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-320">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-315" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-315" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="128" x="22" y="249" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-365" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-316" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-316" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-316" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="128" x="192" y="249" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-368" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-317" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-322">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-317" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-317" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="128" x="360" y="249" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-371" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-318" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-323">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-318" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-318" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="128" x="530" y="249" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-374" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-319" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-324">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-319" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-319" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="128" x="700" y="249" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-320" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#000000;gradientColor=none;" value="Dropout (p)" vertex="1">
@@ -1317,7 +1317,7 @@
         <mxCell id="VdiFgINGFa-3XngEpmkl-785" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-688" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-689">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdiFgINGFa-3XngEpmkl-688" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLu" vertex="1">
+        <mxCell id="VdiFgINGFa-3XngEpmkl-688" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1FEF1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#36393d;" value="ReLU" vertex="1">
           <mxGeometry height="24" width="300" x="275" y="560" as="geometry" />
         </mxCell>
         <mxCell id="VdiFgINGFa-3XngEpmkl-788" edge="1" parent="1" source="VdiFgINGFa-3XngEpmkl-689" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=4;" target="VdiFgINGFa-3XngEpmkl-692">
