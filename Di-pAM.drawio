@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15">
   <diagram name="Page-1" id="7LFFcTijeGODZ21XqISI">
-    <mxGraphModel dx="3483" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2459" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3350,6 +3350,18 @@
         </mxCell>
         <mxCell id="7pfzzQekScDHqbTyGiIU-361" parent="1" style="rounded=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=4;" value="" vertex="1">
           <mxGeometry height="838" width="1054" x="1330" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7pfzzQekScDHqbTyGiIU-1062" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Dynamic attention branch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="181.68" x="212.65143493871483" y="758" as="geometry" />
+        </mxCell>
+        <mxCell id="7pfzzQekScDHqbTyGiIU-1063" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCDBF4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;strokeColor=#000000;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="28.5" width="27.655069951714744" x="184" y="758.75" as="geometry" />
+        </mxCell>
+        <mxCell id="7pfzzQekScDHqbTyGiIU-1064" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=0;arcSize=30;" value="" vertex="1">
+          <mxGeometry height="28.5" width="27.655069951714744" x="184" y="795.75" as="geometry" />
+        </mxCell>
+        <mxCell id="7pfzzQekScDHqbTyGiIU-1065" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="Classification branch" vertex="1">
+          <mxGeometry height="30" width="125.78" x="226.55143493871492" y="795" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
